@@ -10,10 +10,12 @@ A seguir o faturamento total de cada loja, no período dos dados avaliados:
 * Faturamento da loja 4: R$ 1384497.58 
 
 ## Gráficos do faturamento:
-* Gráfico de barras - faturamento total: 
+* Gráfico de barras - faturamento total:
+* 
 ![This is an alt text.](/images/faturamento_barras.png "Gráfico de barras - faturamento total.")
 
-* Gráfico de setores - faturamento total: 
+* Gráfico de setores - faturamento total:
+* 
 ![This is an alt text.](/images/faturamento_pizza.png "Gráfico de setores - faturamento total.")
 
 # Vendas por categoria
@@ -21,10 +23,12 @@ A seguir o faturamento total de cada loja, no período dos dados avaliados:
 A seguir as vendas por categoria de cada loja, no período dos dados avaliados: 
 
 * Vendas por categoria da loja 1:
-    * Gráfico de barras: 
+    * Gráfico de barras:
+ 
     ![This is an alt text.](/images/faturamento_barras.png "Gráfico de barras - faturamento total.")
 
-    * Gráfico de setores: 
+    * Gráfico de setores:
+  
     ![This is an alt text.](/images/faturamento_pizza.png "Gráfico de setores - faturamento total.")
 
 
@@ -33,10 +37,12 @@ A seguir as vendas por categoria de cada loja, no período dos dados avaliados:
 * Faturamento da loja 4: R$ 1384497.58 
 
 ## Gráficos do faturamento:
-* Gráfico de barras - faturamento total: 
+* Gráfico de barras - faturamento total:
+  
 ![This is an alt text.](/images/faturamento_barras "Gráfico de barras - faturamento total.")
 
-* Gráfico de setores - faturamento total: 
+* Gráfico de setores - faturamento total:
+  
 ![This is an alt text.](/images/faturamento_pizza "Gráfico de setores - faturamento total.")
 
 
