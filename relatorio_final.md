@@ -11,11 +11,11 @@ A seguir o faturamento total de cada loja, no período dos dados avaliados:
 
 ## Gráficos do faturamento:
 * Gráfico de barras - faturamento total:
-* 
+  
 ![This is an alt text.](/images/faturamento_barras.png "Gráfico de barras - faturamento total.")
 
 * Gráfico de setores - faturamento total:
-* 
+  
 ![This is an alt text.](/images/faturamento_pizza.png "Gráfico de setores - faturamento total.")
 
 # Vendas por categoria
@@ -25,83 +25,72 @@ A seguir as vendas por categoria de cada loja, no período dos dados avaliados:
 * Vendas por categoria da loja 1:
     * Gráfico de barras:
  
-    ![This is an alt text.](/images/faturamento_barras.png "Gráfico de barras - faturamento total.")
+    ![This is an alt text.](/images/loja1_vendas_categ_barras.png "Gráfico")
 
     * Gráfico de setores:
   
-    ![This is an alt text.](/images/faturamento_pizza.png "Gráfico de setores - faturamento total.")
+    ![This is an alt text.](/images/loja1_vendas_categ_setores.png "Gráfico")
 
 
-* Faturamento da loja 2: R$ 1488459.06 
-* Faturamento da loja 3: R$ 1464025.03 
-* Faturamento da loja 4: R$ 1384497.58 
+* Faturamento da loja 2: R$ 1488459.06
+   * Gráfico de barras:
+ 
+    ![This is an alt text.](/images/loja2_vendas_categ_barras.png "Gráfico")
 
-## Gráficos do faturamento:
-* Gráfico de barras - faturamento total:
+    * Gráfico de setores:
   
-![This is an alt text.](/images/faturamento_barras "Gráfico de barras - faturamento total.")
+    ![This is an alt text.](/images/loja2_vendas_categ_setores.png "Gráfico")
 
-* Gráfico de setores - faturamento total:
   
-![This is an alt text.](/images/faturamento_pizza "Gráfico de setores - faturamento total.")
+* Faturamento da loja 3: R$ 1464025.03
+   * Gráfico de barras:
+ 
+    ![This is an alt text.](/images/loja3_vendas_categ_barras.png "Gráfico")
 
+    * Gráfico de setores:
+  
+    ![This is an alt text.](/images/loja3_vendas_categ_setores.png "Gráfico")
+  
+* Faturamento da loja 4: R$ 1384497.58
+     * Gráfico de barras:
+ 
+    ![This is an alt text.](/images/loja4_vendas_categ_barras.png "Gráfico")
+  
+    * Gráfico de setores:
+  
+    ![This is an alt text.](/images/loja4_vendas_categ_setores.png "Gráfico")
 
+## Comparação entre lojas
+Comparação entre as quatro lojas: 
 
-## Emphasis
+![This is an alt text.](/images/lojas_vendas_categ_barras.png "Gráfico")
 
-*This text will be italic*  
-_This will also be italic_
+# Média de avaliação das lojas
+Comparativo:
 
-**This text will be bold**  
-__This will also be bold__
+![This is an alt text.](/images/media_avaliacao_lojas.png "Gráfico")
 
-_You **can** combine them_
+# Produtos Mais e Menos Vendidos
 
-## Lists
+* Loja 1:
+   
+    ![This is an alt text.](/images/produtos_mais_vendidos_loja1.png "Gráfico")
 
-### Unordered
+* Loja 2:
+   
+    ![This is an alt text.](/images/produtos_mais_vendidos_loja2.png "Gráfico")
 
-* Item 1
-* Item 2
-* Item 2a
-* Item 2b
-    * Item 3a
-    * Item 3b
+* Loja 3:
+   
+    ![This is an alt text.](/images/produtos_mais_vendidos_loja3.png "Gráfico")
 
-### Ordered
+* Loja 4:
+   
+    ![This is an alt text.](/images/produtos_mais_vendidos_loja4.png "Gráfico")
 
-1. Item 1
-2. Item 2
-3. Item 3
-    1. Item 3a
-    2. Item 3b
+# Frete médio por loja
 
+Comparação entre as quatro lojas: 
 
-## Links
-
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
-
-## Blockquotes
-
-> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
->
->> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-
-## Tables
-
-| Left columns  | Right columns |
-| ------------- |:-------------:|
-| left foo      | right foo     |
-| left bar      | right bar     |
-| left baz      | right baz     |
-
-## Blocks of code
-
-```
-let message = 'Hello world';
-alert(message);
-```
-
-## Inline code
-
-This web site is using `markedjs/marked`.
+![This is an alt text.](/images/frete_medio.png "Gráfico")
+  
