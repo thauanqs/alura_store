@@ -107,5 +107,6 @@ Observamos que a Loja 1 possui o maior frete médio, e a Loja 4 o menor frete m�
 
 # Conclusão 
 
-Como se pode verificar nos gráficos obtidos a partir dos dados fornecidos, as quatro lojas possuem métricas não muito destoantes entre sí. Porém, a Loja 1 possui o frete mais caro e a menor avaliação média entre as lojas. Logo, recomendamos o fechamento da Loja 1.
+Como se pode verificar nos gráficos obtidos a partir dos dados fornecidos, as quatro lojas possuem métricas não muito destoantes entre sí. Porém, a Loja 1 possui o frete mais caro e a menor avaliação média entre as lojas. 
+**Logo, recomendamos o fechamento da Loja 1.**
 
